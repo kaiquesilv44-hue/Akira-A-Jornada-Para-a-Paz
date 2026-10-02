@@ -1,0 +1,77 @@
+{
+    "version": 1,
+    "name": "AkiraInputs",
+    "maps": [
+        {
+            "name": "Akira",
+            "id": "f332dd89-96c8-4312-b6d6-e46c1badb68b",
+            "actions": [
+                {
+                    "name": "Andar",
+                    "type": "Value",
+                    "id": "34226bea-0457-4f37-8898-c7eed801a442",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Pular",
+                    "type": "Button",
+                    "id": "b8c4fbce-3383-474d-a6ec-a373e3ad2e61",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b067b0b6-659f-4127-91f5-81412dcadb33",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pular",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "5ac80c8f-3a37-4036-93b0-cb855ce05b89",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Andar",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "16f7bbd9-962e-4ee1-ac40-3ee2159276fd",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Andar",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "5abcfac4-8541-4d9d-af64-c5cfa2f4927e",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Andar",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
