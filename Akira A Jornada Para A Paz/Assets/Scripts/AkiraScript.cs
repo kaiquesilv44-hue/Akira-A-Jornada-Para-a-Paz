@@ -35,7 +35,7 @@ public class AkiraScript : MonoBehaviour
     {
         bool QuerParar = Direcao == 0;
         col.sharedMaterial = QuerParar ? Chao : Parede;
-        Debug.Log(rb.linearVelocityX);
+        Debug.Log(rb.linearVelocityX);  
     }
     private void FixedUpdate()
     {
@@ -54,6 +54,12 @@ public class AkiraScript : MonoBehaviour
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             CanJump = false;
+        }
+
+        
+        if (value.canceled && rb.linearVelocityY > 0)
+        {
+            rb.linearVelocityY *= 0f;
         }
     }
     private void ReceberDano(int dano)
