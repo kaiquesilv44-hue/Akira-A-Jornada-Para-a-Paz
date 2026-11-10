@@ -180,7 +180,7 @@ public class AkiraScript : MonoBehaviour
         }
     }
 
-    private void ReceberDano(int dano)
+    public void ReceberDano(int dano)
     {
         StartCoroutine(receberDano());
         if (Vida >= 1)
@@ -208,6 +208,11 @@ public class AkiraScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.CompareTag("Finish"))
+        {
+            ReceberDano(10);
+        }
+
         if (collision.gameObject.CompareTag("Chão"))
         {
             CanJump = true;
@@ -235,11 +240,16 @@ public class AkiraScript : MonoBehaviour
         {
             collision.gameObject.GetComponent<InimigoBaseScript>().ReceberDano(1);
         }
+        
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        if (collision.gameObject.CompareTag("Yurei") && (AtacandoA || AtacandoD || AtacandoP))
+        {
+            collision.gameObject.GetComponent<YureiScript>().ReceberDano(1);
+        }
     }
 
 

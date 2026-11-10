@@ -10,6 +10,9 @@ TagManager:
   - Dano
   - Parede
   - Porta
+  - Caverna
+  - Floresta
+  - Yurei
   layers:
   - Default
   - TransparentFX

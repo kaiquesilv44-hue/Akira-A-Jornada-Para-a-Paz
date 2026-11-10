@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: b7560d90ed54e614b91eb9aceda80ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3486734834776495338
+    second: Floresta_Catacumba_0
+  - first:
+      213: -4217726161633961351
+    second: Floresta_Catacumba_1
+  - first:
+      213: 4121776270128070644
+    second: Floresta_Catacumba_2
+  - first:
+      213: -1525368066442175234
+    second: Floresta_Catacumba_3
+  - first:
+      213: -7515675225542017194
+    second: Floresta_Catacumba_4
+  - first:
+      213: 2969211101702459107
+    second: Floresta_Catacumba_5
+  - first:
+      213: -2054647439900170247
+    second: Floresta_Catacumba_6
+  - first:
+      213: -4876019523395460931
+    second: Floresta_Catacumba_7
+  - first:
+      213: 2495348789954690869
+    second: Floresta_Catacumba_8
+  - first:
+      213: 5471572696307675894
+    second: Floresta_Catacumba_9
+  - first:
+      213: 5422544163284224576
+    second: Floresta_Catacumba_10
+  - first:
+      213: 4224264974125936890
+    second: Floresta_Catacumba_11
+  - first:
+      213: 7311749103124960703
+    second: Floresta_Catacumba_12
+  - first:
+      213: 7875318376892492337
+    second: Floresta_Catacumba_13
+  - first:
+      213: 462456257941927537
+    second: Floresta_Catacumba_14
+  - first:
+      213: 2436247180535738146
+    second: Floresta_Catacumba_15
+  - first:
+      213: 7898645652440492623
+    second: Floresta_Catacumba_16
+  - first:
+      213: 3868250080666804201
+    second: Floresta_Catacumba_17
+  - first:
+      213: 5669716409447970514
+    second: Floresta_Catacumba_18
+  - first:
+      213: -6201837918300072481
+    second: Floresta_Catacumba_19
+  - first:
+      213: -2265270190864746333
+    second: Floresta_Catacumba_20
+  - first:
+      213: 2512204232183388491
+    second: Floresta_Catacumba_21
+  - first:
+      213: -8670198775756792674
+    second: Floresta_Catacumba_22
+  - first:
+      213: 8291822662402649691
+    second: Floresta_Catacumba_23
+  - first:
+      213: -6034600243926938318
+    second: Floresta_Catacumba_24
+  - first:
+      213: -7856121400968897825
+    second: Floresta_Catacumba_25
+  - first:
+      213: 3861089909158089232
+    second: Floresta_Catacumba_26
+  - first:
+      213: -3671812965224719440
+    second: Floresta_Catacumba_27
+  - first:
+      213: 7219121567936013090
+    second: Floresta_Catacumba_28
+  - first:
+      213: 6276857635615013029
+    second: Floresta_Catacumba_29
+  - first:
+      213: -6310877211859633997
+    second: Floresta_Catacumba_30
+  - first:
+      213: -8204039858942080784
+    second: Floresta_Catacumba_31
+  - first:
+      213: 2512384748356227701
+    second: Floresta_Catacumba_32
+  - first:
+      213: -2087553282458746846
+    second: Floresta_Catacumba_33
+  - first:
+      213: 156029721899791752
+    second: Floresta_Catacumba_34
+  - first:
+      213: 927089652051988585
+    second: Floresta_Catacumba_35
+  - first:
+      213: -8399389727774908543
+    second: Floresta_Catacumba_36
+  - first:
+      213: -8621012889621736243
+    second: Floresta_Catacumba_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floresta_Catacumba_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61baa2b2421ac9fc0800000000000000
+      internalID: -3486734834776495338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floresta_Catacumba_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9fe70760a775c0800000000000000
+      internalID: -4217726161633961351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floresta_Catacumba_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff3e98fdad733930800000000000000
+      internalID: 4121776270128070644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floresta_Catacumba_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5df743ddc4dae0800000000000000
+      internalID: -1525368066442175234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floresta_Catacumba_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3d5eb335f2b790800000000000000
+      internalID: -7515675225542017194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floresta_Catacumba_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0129631c0d8559530800000000000000
+      internalID: 3861089909158089232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 21d24f5f8f56c6c4c849ca91ff0fba59
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Floresta_Catacumba_0: -3486734834776495338
+      Floresta_Catacumba_1: -4217726161633961351
+      Floresta_Catacumba_10: 5422544163284224576
+      Floresta_Catacumba_11: 4224264974125936890
+      Floresta_Catacumba_12: 7311749103124960703
+      Floresta_Catacumba_13: 7875318376892492337
+      Floresta_Catacumba_14: 462456257941927537
+      Floresta_Catacumba_15: 2436247180535738146
+      Floresta_Catacumba_16: 7898645652440492623
+      Floresta_Catacumba_17: 3868250080666804201
+      Floresta_Catacumba_18: 5669716409447970514
+      Floresta_Catacumba_19: -6201837918300072481
+      Floresta_Catacumba_2: 4121776270128070644
+      Floresta_Catacumba_20: -2265270190864746333
+      Floresta_Catacumba_21: 2512204232183388491
+      Floresta_Catacumba_22: -8670198775756792674
+      Floresta_Catacumba_23: 8291822662402649691
+      Floresta_Catacumba_24: -6034600243926938318
+      Floresta_Catacumba_25: -7856121400968897825
+      Floresta_Catacumba_26: 3861089909158089232
+      Floresta_Catacumba_27: -3671812965224719440
+      Floresta_Catacumba_28: 7219121567936013090
+      Floresta_Catacumba_29: 6276857635615013029
+      Floresta_Catacumba_3: -1525368066442175234
+      Floresta_Catacumba_30: -6310877211859633997
+      Floresta_Catacumba_31: -8204039858942080784
+      Floresta_Catacumba_32: 2512384748356227701
+      Floresta_Catacumba_33: -2087553282458746846
+      Floresta_Catacumba_34: 156029721899791752
+      Floresta_Catacumba_35: 927089652051988585
+      Floresta_Catacumba_36: -8399389727774908543
+      Floresta_Catacumba_37: -8621012889621736243
+      Floresta_Catacumba_4: -7515675225542017194
+      Floresta_Catacumba_5: 2969211101702459107
+      Floresta_Catacumba_6: -2054647439900170247
+      Floresta_Catacumba_7: -4876019523395460931
+      Floresta_Catacumba_8: 2495348789954690869
+      Floresta_Catacumba_9: 5471572696307675894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,31 +3,24 @@ using UnityEngine;
 
 public class FantasmaScript : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public GameObject yurei;
+    Animator an;
+
+    private void Start()
     {
-        
+        an = GetComponent<Animator>();
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            an.SetTrigger("Spawn");
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void destruir()
     {
-        
-    }
-
-    IEnumerator Ataque()
-    {
-       int ataque = Random.Range(0, 100);
-       int timer = Random.Range(7, 13);
-        if (ataque < 50)
-        {
-            GetComponent<Animator>().SetTrigger("Ataque1");
-        }
-        else
-        {
-            GetComponent<Animator>().SetTrigger("Ataque2");
-        }
-        yield return new WaitForSeconds(timer);
-        StartCoroutine(Ataque());
+        yurei.SetActive(true);
+        Destroy(gameObject);
     }
 }
